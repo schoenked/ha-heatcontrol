@@ -91,7 +91,7 @@ def process_profile(filename):
 
 def build_device_info(serial, mac, host, name, info, filename):
     device_info = DeviceInfo()
-    manufacturer = "Solarman"
+    manufacturer = "heatcontrol"
     model = "Stick Logger"
 
     if info and "model" in info:

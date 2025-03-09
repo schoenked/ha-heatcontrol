@@ -1,6 +1,6 @@
 from datetime import timedelta as td
 
-DOMAIN = "solarman"
+DOMAIN = "heatcontrol"
 
 IP_BROADCAST = "<broadcast>"
 IP_ANY = "0.0.0.0"
