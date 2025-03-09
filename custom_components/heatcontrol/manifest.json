@@ -1,6 +1,6 @@
 {
   "domain": "heatcontrol",
-  "name": "\uD83D\uDD25 HEATcontrol",
+  "name": "HEATcontrol",
   "config_flow": true,
   "dependencies": ["network", "template", "dhcp"],
   "iot_class": "local_polling",
