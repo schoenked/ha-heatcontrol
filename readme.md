@@ -1,12 +1,7 @@
-# ⚡ Solarman Stick Logger
+# 🔥 HEATcontrol
+### fork of ⚡ Solarman Stick Logger not done with clean up
 
 [![License](https://img.shields.io/github/license/davidrapan/ha-solarman)](https://github.com/davidrapan/ha-solarman/blob/main/license)
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/davidrapan/ha-solarman/total)](https://github.com/davidrapan/ha-solarman/releases)
-[![GitHub Activity](https://img.shields.io/github/commit-activity/y/davidrapan/ha-solarman?label=commits)](https://github.com/davidrapan/ha-solarman/commits/main)
-[![HACS Supported](https://img.shields.io/badge/HACS-Supported-03a9f4)](https://github.com/custom-components/hacs)
-[![Community Forum](https://img.shields.io/badge/community-forum-03a9f4)](https://community.home-assistant.io/t/solarman-stick-logger-by-david-rapan)
-[![Discussions](https://img.shields.io/badge/discussions-orange)](https://github.com/davidrapan/ha-solarman/discussions)
-[![Wiki](https://img.shields.io/badge/wiki-8A2BE2)](https://github.com/davidrapan/ha-solarman/wiki)
 
 #### 🠶 Signpost
 - [Automations](https://github.com/davidrapan/ha-solarman/wiki/Automations)
