@@ -1,5 +1,6 @@
 # 🔥 HEATcontrol
 ### fork of ⚡ Solarman Stick Logger not done with clean up
+### NOTE early access alpha version
 
 [![License](https://img.shields.io/github/license/davidrapan/ha-solarman)](https://github.com/davidrapan/ha-solarman/blob/main/license)
 
@@ -26,7 +27,6 @@
 [![🔌 Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=schoenked&repository=ha-heatcontrol&category=integration)
 
 - Follow the link to [HACS](https://hacs.xyz/docs/faq/custom_repositories/)
-- Repository: **davidrapan/ha-solarman**, Type: **Integration**
 - Find newly added Solarman, open it and click DOWNLOAD
 
 ### 🛠 Manually
