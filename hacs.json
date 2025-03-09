@@ -1,5 +1,7 @@
 {
     "name": "heatcontrol",
     "homeassistant": "2024.7.0",
-    "persistent_directory": "inverter_definitions/custom"
+    "persistent_directory": "inverter_definitions/custom",
+    "zip_release": false,
+    "filename": "custom_components/heatcontrol"
 }
