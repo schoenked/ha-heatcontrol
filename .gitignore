@@ -4,4 +4,4 @@ __pycache__/
 *$py.class
 .idea/
 # HACS
-custom_components/solarman/inverter_definitions/custom/
+custom_components/heatcontrol/inverter_definitions/custom/
